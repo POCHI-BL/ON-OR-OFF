@@ -1,0 +1,634 @@
+{
+  "title": "ON OR OFF",
+  "description": "Yiyoung está creando un empredimiento con sus amigos de la universidad. Tienen la oportunidad de presentar su propuesta a la Corporación SJ, una de las principales empresas del país. Pero en la sala de reuniones ve a Kang Daehyung, el guapísimo directivo de la empresa que es su tipo, y el corazón de Yiyoung empieza a acelerarse...
+¿Podrá Yiyoung, con su cara bonita, ganar tanto en el amor como en su carrera?",
+  "artist": "A1",
+  "author": "A",
+  "cover": "https://pbs.twimg.com/media/Ebu3diLUcAArCUh.jpg",
+  "chapters": {
+    "1": {
+      "title": "Capítulo 1",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/PeLzFzt/"
+      },
+      "last_updated": "1616368746"
+    },
+    "2": {
+      "title": "Capítulo 2",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/lAiJ30a/"
+      },
+      "last_updated": "1616368746"
+    },
+    "3": {
+      "title": "Capítulo 3",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/5MPneir/"
+      },
+      "last_updated": "1616368746"
+    },
+    "4": {
+      "title": "Capítulo 4",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/YilixO8/"
+      },
+      "last_updated": "1616368746"
+    },
+    "5": {
+      "title": "Capítulo 5",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/66v7wcm/"
+      },
+      "last_updated": "1616368746"
+    },
+    "6": {
+      "title": "Capítulo 6",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/suAUfp1/"
+      },
+      "last_updated": "1616368746"
+    },
+    "7": {
+      "title": "Capítulo 7",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/xInurU1/"
+      },
+      "last_updated": "1616368746"
+    },
+    "8": {
+      "title": "Capítulo 8",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/mW85R20/"
+      },
+      "last_updated": "1616368746"
+    },
+    "9": {
+      "title": "Capítulo 9",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/ibojXUA/"
+      },
+      "last_updated": "1616368746"
+    },
+    "10": {
+      "title": "Capítulo 10",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/nLhRYNK/"
+      },
+      "last_updated": "1616368746"
+    },
+    "11": {
+      "title": "Capítulo 11",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/5ZIG023/"
+      },
+      "last_updated": "1616368746"
+    },
+    "12": {
+      "title": "Capítulo 12",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/g8DN6Hb/"
+      },
+      "last_updated": "1616368746"
+    },
+    "13": {
+      "title": "Capítulo 13",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/z7O5h7A/"
+      },
+      "last_updated": "1616368746"
+    },
+    "14": {
+      "title": "Capítulo 14",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/UmIeQYB/"
+      },
+      "last_updated": "1616368746"
+    },
+    "15": {
+      "title": "Capítulo 15",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/z0gNxkz/"
+      },
+      "last_updated": "1616368746"
+    },
+    "16": {
+      "title": "Capítulo 16",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/Tc20Xyr/"
+      },
+      "last_updated": "1616368746"
+    },
+    "17": {
+      "title": "Capítulo 17",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/znKIPpX/"
+      },
+      "last_updated": "1616368746"
+    },
+    "18": {
+      "title": "Capítulo 18",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/g6eNlk0/"
+      },
+      "last_updated": "1616368746"
+    },
+    "19": {
+      "title": "Capítulo 19",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/RRQs1Ky/"
+      },
+      "last_updated": "1616368746"
+    },
+    "20": {
+      "title": "Capítulo 20",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/OMh0HzN/"
+      },
+      "last_updated": "1616368746"
+    },
+    "21": {
+      "title": "Capítulo 21",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/rgSVVbv/"
+      },
+      "last_updated": "1616368746"
+    },
+    "22": {
+      "title": "Capítulo 22",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/cA1vqr5/"
+      },
+      "last_updated": "1616368746"
+    },
+    "23": {
+      "title": "Capítulo 23",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/Kn9rONx/"
+      },
+      "last_updated": "1616368746"
+    },
+    "24": {
+      "title": "Capítulo 24",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/vHq0aQU/"
+      },
+      "last_updated": "1616368746"
+    },
+    "25": {
+      "title": "Capítulo 25",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/4RhcY7D/"
+      },
+      "last_updated": "1616368746"
+    },
+    "26": {
+      "title": "Capítulo 26",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/5ukINJd/"
+      },
+      "last_updated": "1616368746"
+    },
+    "27": {
+      "title": "Capítulo 27",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/Amn44jC/"
+      },
+      "last_updated": "1616368746"
+    },
+    "28": {
+      "title": "Capítulo 28",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/xUAcTP1/"
+      },
+      "last_updated": "1616368746"
+    },
+    "29": {
+      "title": "Capítulo 29",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/W1xkQVz/"
+      },
+      "last_updated": "1616368746"
+    },
+    "30": {
+      "title": "Capítulo 30",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/03SfwXK/"
+      },
+      "last_updated": "1616368746"
+    },
+    "31": {
+      "title": "Capítulo 31",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/95R4o1C/"
+      },
+      "last_updated": "1616368746"
+    },
+    "32": {
+      "title": "Capítulo 32",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/MWArRJF/"
+      },
+      "last_updated": "1616368746"
+    },
+    "33": {
+      "title": "Capítulo 33",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/xa5dzXc/"
+      },
+      "last_updated": "1616368746"
+    },
+    "34": {
+      "title": "Capítulo 34",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/EvEncD7/"
+      },
+      "last_updated": "1616368746"
+    },
+    "35": {
+      "title": "Capítulo 35",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/Rhp4lwA/"
+      },
+      "last_updated": "1616368746"
+    },
+    "36": {
+      "title": "Capítulo 36",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/Go4nDIQ/"
+      },
+      "last_updated": "1616368746"
+    },
+    "37": {
+      "title": "Capítulo 37",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/eIv9oS0/"
+      },
+      "last_updated": "1616368746"
+    },
+    "38": {
+      "title": "Capítulo 38",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/hc55RQF/"
+      },
+      "last_updated": "1616368746"
+    },
+    "39": {
+      "title": "Capítulo 39",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/8RMgVV2/"
+      },
+      "last_updated": "1616368746"
+    },
+    "40": {
+      "title": "Capítulo 40",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/IICKCQ1/"
+      },
+      "last_updated": "1616368746"
+    },
+    "41": {
+      "title": "Capítulo 41",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/FtqWwOf/"
+      },
+      "last_updated": "1616368746"
+    },
+    "42": {
+      "title": "Capítulo 42",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/BTHhfBg/"
+      },
+      "last_updated": "1616368746"
+    },
+    "43": {
+      "title": "Capítulo 43",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/GjLTrFg/"
+      },
+      "last_updated": "1616368746"
+    },
+    "44": {
+      "title": "Capítulo 44",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/Tb1zPDq/"
+      },
+      "last_updated": "1616368746"
+    },
+    "45": {
+      "title": "Capítulo 45",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/wDCMkdH/"
+      },
+      "last_updated": "1616368746"
+    },
+    "46": {
+      "title": "Capítulo 46",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/LOaTxsy/"
+      },
+      "last_updated": "1616368746"
+    },
+    "47": {
+      "title": "Capítulo 47",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/urtSe5f/"
+      },
+      "last_updated": "1616368746"
+    },
+    "48": {
+      "title": "Capítulo 48",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/5r9qhol/"
+      },
+      "last_updated": "1616368746"
+    },
+    "49": {
+      "title": "Capítulo 49",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/rzt3dOQ/"
+      },
+      "last_updated": "1616368746"
+    },
+    "50": {
+      "title": "Capítulo 50",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/UNxYdtw/"
+      },
+      "last_updated": "1616368746"
+    },
+    "51": {
+      "title": "Capítulo 51",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/QmEQmHz/"
+      },
+      "last_updated": "1616368746"
+    },
+    "52": {
+      "title": "Capítulo 52",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/IuU63Hn/"
+      },
+      "last_updated": "1616368746"
+    },
+    "53": {
+      "title": "Capítulo 53",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/shA4ygC/"
+      },
+      "last_updated": "1616368746"
+    },
+    "54": {
+      "title": "Capítulo 54",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/JdDzKDk/"
+      },
+      "last_updated": "1616368746"
+    },
+    "55": {
+      "title": "Capítulo 55",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/FIyzjh8/"
+      },
+      "last_updated": "1616368746"
+    },
+    "56": {
+      "title": "Capítulo 56",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/2i4BcMa/"
+      },
+      "last_updated": "1616368746"
+    },
+    "57": {
+      "title": "Capítulo 57",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/LsffJab/"
+      },
+      "last_updated": "1616368746"
+    },
+    "58": {
+      "title": "Capítulo 58",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/4WaddQF/"
+      },
+      "last_updated": "1616368746"
+    },
+    "59": {
+      "title": "Capítulo 59",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/dspBJlV/"
+      },
+      "last_updated": "1616368746"
+    },
+    "60": {
+      "title": "Capítulo 60",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/9T5YdWi/"
+      },
+      "last_updated": "1616368746"
+    },
+    "61": {
+      "title": "Capítulo 61",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/wWbdJjz/"
+      },
+      "last_updated": "1616368746"
+    },
+    "62": {
+      "title": "Capítulo 62",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/kjHscJv/"
+      },
+      "last_updated": "1616368746"
+    },
+    "63": {
+      "title": "Capítulo 63",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/JsUKsL5/"
+      },
+      "last_updated": "1616368746"
+    },
+    "64": {
+      "title": "Capítulo 64",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/DIGg2i8/"
+      },
+      "last_updated": "1616368746"
+    },
+    "65": {
+      "title": "Capítulo 65",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/phgUiQJ/"
+      },
+      "last_updated": "1616368746"
+    },
+    "66": {
+      "title": "Capítulo 66",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/RUiZ4Ye/"
+      },
+      "last_updated": "1616368746"
+    },
+    "67": {
+      "title": "Capítulo 67",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/YobNwg2/"
+      },
+      "last_updated": "1616368746"
+    },
+    "68": {
+      "title": "Capítulo 68",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/NJA0mfJ/"
+      },
+      "last_updated": "1616368746"
+    },
+    "69": {
+      "title": "Capítulo 69",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/1Vr4Uiy/"
+      },
+      "last_updated": "1616368746"
+    },
+    "70": {
+      "title": "Capítulo 70",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/xMYID9v/"
+      },
+      "last_updated": "1616368746"
+    },
+    "71": {
+      "title": "Capítulo 71",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/dYe7fuU/"
+      },
+      "last_updated": "1616368746"
+    },
+    "72": {
+      "title": "Capítulo 72",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/fuhILdL/"
+      },
+      "last_updated": "1616368746"
+    },
+    "73": {
+      "title": "Capítulo 73",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/zJSbIMP/"
+      },
+      "last_updated": "1616368746"
+    },
+    "74": {
+      "title": "Capítulo 74",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/qJk7IFQ/"
+      },
+      "last_updated": "1616368746"
+    },
+    "75": {
+      "title": "Capítulo 75",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/m8pSBjG/"
+      },
+      "last_updated": "1616368746"
+    },
+    "76": {
+      "title": "Capítulo 76",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/g1ukNnS/"
+      },
+      "last_updated": "1616368746"
+    },
+    "77": {
+      "title": "Capítulo 77",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/kym9jNG/"
+      },
+      "last_updated": "1616368746"
+    },
+    "78": {
+      "title": "Capítulo 78",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/T2tcPgT/"
+      },
+      "last_updated": "1619043765"        
+    }    
+  }
+}
