@@ -627,6 +627,22 @@
       "groups": {
         "POCHI": "/proxy/api/imgur/chapter/T2tcPgT/"
       },
+      "last_updated": "1616368746"
+    },
+    "79": {
+      "title": "Capítulo 79",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/iNGcIfT/"
+      },
+      "last_updated": "1616368746"
+    },
+    "80": {
+      "title": "Capítulo 80",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/ajRszDi/"
+      },
       "last_updated": "1619043765"        
     }    
   }
